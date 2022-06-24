@@ -1,1 +1,4 @@
-"Evan Maher" 
+Evan Maher
+mahere@oregonstate.edu
+blue
+Drake
