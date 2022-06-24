@@ -1,1 +1,2 @@
-"Evan Maher" 
+Evan Maher
+mahere@oregonstate.edu
